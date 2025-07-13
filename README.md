@@ -1,8 +1,6 @@
-<h1 align="center">Szymon Pacholski</h1>
 <p align="center">
   Backend Engineer • .NET & TypeScript • LLM Systems • AWS • AI-Augmented Tools
 </p>
-
 ---
 
 ## 🧠 Backend Engineering with AI Enablement
