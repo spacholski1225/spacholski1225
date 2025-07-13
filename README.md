@@ -1,6 +1,7 @@
 <p align="center">
   Backend Engineer • .NET & TypeScript • LLM Systems • AWS • AI-Augmented Tools
 </p>
+
 ---
 
 ## 🧠 Backend Engineering with AI Enablement
@@ -69,6 +70,6 @@ These tools are used across multiple services and teams internally — from CI/C
 
 - 💼 Portfolio & Blog: [szymonpacholski.com](https://szymonpacholski.com)
 - 🔗 LinkedIn: [Szymon Pacholski](https://www.linkedin.com/in/szymonpacholski/)
-- 📧 Email: me [at] szymonpacholski.com
+- 📧 Email: me@szymonpacholski.com
 
 Always open to collaboration, deep tech discussions, and new ways to build smarter systems.
